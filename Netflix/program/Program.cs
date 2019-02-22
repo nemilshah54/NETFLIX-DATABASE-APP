@@ -2,10 +2,7 @@
 
 //
 // Nemil R Shah
-// netid: nshah213
-// U. of Illinois, Chicago
-// CS 341, Fall 2018
-// Project #06: Netflix database application
+// Project Name :  Netflix database application
 //
 
 using System;
